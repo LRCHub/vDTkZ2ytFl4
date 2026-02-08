@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星旧",
+  "base_artist": "higma",
+  "createdAt": "2026-02-08T05:53:21.320432Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星旧",
+      "artist": "higma",
+      "has_synced": false,
+      "path": "select/pl_01_星旧_higma.txt"
+    }
+  ]
+}
